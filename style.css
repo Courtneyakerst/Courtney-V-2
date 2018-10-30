@@ -87,10 +87,10 @@ nav.current{
 .img1, .img2, .img3, .img4, .img5, .img6{
 	position:relative;
 	opacity:0.80;
-/* 	background-size:cover; */
-/* 	background-position:center; */
-/* 	background-repeat:no-repeat; */
-/* 	background-attachment:fixed; */
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
 
 }
 
