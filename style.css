@@ -76,7 +76,8 @@ nav.current{
 		padding: 5px 20px;
 		box-sizing: border-box;
 		}
-	}
+
+}
 .responsive-bar .menu {
 	float: right;
 	color: white;
@@ -86,7 +87,7 @@ nav.current{
 .img1, .img2, .img3, .img4, .img5, .img6{
 	position:relative;
 	opacity:0.80;
-	background-size:cover;
+/* 	background-size:cover; */
 	background-position:center;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
